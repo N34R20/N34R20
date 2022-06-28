@@ -19,15 +19,16 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://numpy.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/NumPy#/media/Archivo:NumPy_logo_2020.svg" alt="aws" width="40" height="40"/> </a> 
 
 <a href="https://www.python.org" target="_blank"> <img src="https://i1.wp.com/www.inferencelab.com/wp-content/uploads/Python-logo-notext.svg_.png?w=1024" alt="python" width="40" height="40"/> </a> 
 
+<a href="https://numpy.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/NumPy#/media/Archivo:NumPy_logo_2020.svg" alt="Numpy" width="40" height="40"/> </a> 
+  
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Pandas_(software)#/media/Archivo:Pandas_mark.svg" alt="Pandas" alt="Pandas" width="40" height="40"/> </a> 
 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" alt="scikit" width="40" height="40"/> </a> 
 
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Matplotlib#/media/Archivo:Matplotlib_icon.svg" alt="matplotlib" alt="mmatplotlib" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Matplotlib#/media/Archivo:Matplotlib_icon.svg" alt="matplotlib" alt="matplotlib" width="40" height="40"/> </a> 
 
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" alt="seaborn" width="40" height="40"/> </a> 
 
