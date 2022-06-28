@@ -23,17 +23,17 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.python.org" target="_blank"> <img src="https://i1.wp.com/www.inferencelab.com/wp-content/uploads/Python-logo-notext.svg_.png?w=1024" alt="python" width="40" height="40"/> </a> 
 
-<a href="https://numpy.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/NumPy#/media/Archivo:NumPy_logo_2020.svg" alt="numpy" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/NumPy#/media/Archivo:NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a> 
   
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Pandas_(software)#/media/Archivo:Pandas_mark.svg" alt="Pandas" alt="Pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Pandas_(software)#/media/Archivo:Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> 
 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" alt="scikit" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Matplotlib#/media/Archivo:Matplotlib_icon.svg" alt="matplotlib" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Matplotlib#/media/Archivo:Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
 
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
-<a href="https://scipy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" alt="scipy" width="40" height="40"/> </a> 
+<a href="https://scipy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a> 
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
 
