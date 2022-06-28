@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://numpy.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/NumPy#/media/Archivo:NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a> 
   
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Pandas_(software)#/media/Archivo:Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> 
 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
