@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Matplotlib#/media/Archivo:Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank"> <img src="[https://es.wikipedia.org/wiki/Matplotlib#/media/Archivo:Matplotlib_icon.svg](https://matplotlib.org/3.1.1/_static/logo2_compressed.svg)" alt="matplotlib" width="40" height="40"/> </a> 
 
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
