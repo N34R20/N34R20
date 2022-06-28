@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.python.org" target="_blank"> <img src="https://i1.wp.com/www.inferencelab.com/wp-content/uploads/Python-logo-notext.svg_.png?w=1024" alt="python" width="40" height="40"/> </a> 
 
-<a href="https://numpy.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/NumPy#/media/Archivo:NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank"> <img src="https://es.m.wikipedia.org/wiki/Archivo:NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a> 
   
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg](https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg)" alt="Pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> 
 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-<a href="https://matplotlib.org/" target="_blank"> <img src="[https://es.wikipedia.org/wiki/Matplotlib#/media/Archivo:Matplotlib_icon.svg](https://matplotlib.org/3.1.1/_static/logo2_compressed.svg)" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a> 
 
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
