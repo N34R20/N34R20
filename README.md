@@ -37,4 +37,4 @@ https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="4
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
 
-![Francisco Olmos](https://github-readme-stats.vercel.app/api?username=rafzamb&show_icons=true)
+![Francisco Olmos](https://github-readme-stats.vercel.app/api?username=N34R20&show_icons=true)
