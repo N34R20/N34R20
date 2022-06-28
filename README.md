@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.python.org" target="_blank"> <img src="https://i1.wp.com/www.inferencelab.com/wp-content/uploads/Python-logo-notext.svg_.png?w=1024" alt="python" width="40" height="40"/> </a> 
 
-<a href="https://numpy.org/" target="_blank"> <img src="https://es.m.wikipedia.org/wiki/Archivo:NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a> 
   
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> 
 
