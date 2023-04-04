@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Developer / Data Scientist</h3>
 
 
-<h1 align="center">Connect with me:</h1>
+<h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-olmos-8b79a41a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fran-olmos" height="30" width="40" /></a> 
 
@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n34r20&show_icons=true&locale=en&layout=compact" alt="n34r20" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n34r20&show_icons=true&theme=dark&locale=en" alt="n34r20" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=n34r20&show_icons=true&theme=dark&locale=en" alt="n34r20" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n34r20&theme=dark" alt="n34r20" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=n34r20&theme=dark" alt="n34r20" /></p>
