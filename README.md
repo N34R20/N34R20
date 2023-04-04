@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> <img src="https://i.imgur.com/3CGuvki.jpg" alt="PySpark" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> <img src="" alt="PySpark" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/es-es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="40" height="40"/> </a>
   <a href="https://www.databricks.com/" target="_blank"> <img src="https://yt3.googleusercontent.com/_7KEqCHnfwYCkZmPrEAinVpFFKpvyK9IGcHDsZtaj68aCOi6Ige1Zl3B6MjHZUuurc-WjEv1tVM=s900-c-k-c0x00ffffff-no-rj" alt="Databricks" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png" alt="PowerBi" width="40" height="40"/> </a>
