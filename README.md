@@ -1,21 +1,18 @@
-- 👋 Hi, I’m @N34R20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python 3 
-- 💞️ I’m looking to collaborate on blockchain, machine learning, financial analysis, etc.
-- 📫 How to reach me francisco.olmos.99@gmail.com
+
 
 <!---
 N34R20/N34R20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi! 🤟 I'm Fran</h1>
-<h3 align="center">Developer / Data Scientist</h3>
+<h1 align="center"> Hi! 🤟 I'm Fran </h1>
+<h3 align="center"> Developer / Data Scientist </h3>
 
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center"> Connect with me: </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-olmos-8b79a41a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fran-olmos" height="30" width="40" /></a> 
+- 📫 How to reach me francisco.olmos.99@gmail.com
 
 <h1 align="center">Languages and Tools:</h1>
 
@@ -46,10 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n34r20&show_icons=true&locale=en&layout=compact" alt="n34r20" />
-</p>
-
-<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=n34r20&show_icons=true&theme=dark&locale=en" alt="n34r20" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=n34r20&theme=dark" alt="n34r20" />
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=n34r20&theme=dark" alt="n34r20" /></p>
