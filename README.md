@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<h1 align="center"> GitHub Stats </h1>
 
 <p align="center"> 
   <a href="https://github.com/N34R20/N34R20">
