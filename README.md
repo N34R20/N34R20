@@ -42,9 +42,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n34r20&theme=dark" alt="n34r20" height="30" width="40" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n34r20&show_icons=true&locale=en&layout=compact" alt="n34r20" height="30" width="40" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=n34r20&show_icons=true&theme=dark&locale=en" alt="n34r20" height="30" width="40" />
+  <a href="https://github.com/N34R20/N34R20">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n34r20&theme=dark" alt="n34r20"/></a>
+  <a href="https://github.com/N34R20/N34R20">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n34r20&show_icons=true&locale=en&layout=compact" alt="n34r20" /></a>
+  <a href="https://github.com/N34R20/N34R20">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=n34r20&show_icons=true&theme=dark&locale=en" alt="n34r20" /></a>
   
 </p>
 
