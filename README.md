@@ -40,15 +40,5 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<h1 align="center"> GitHub Stats </h1>
 
-<p align="center"> 
-  <a href="https://github.com/N34R20/N34R20">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n34r20&theme=dark" alt="n34r20"/></a>
-  <a href="https://github.com/N34R20/N34R20">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n34r20&title_color=ffffff&text_color=c9cacc&hide=assembly,html,css&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
-  <a href="https://github.com/N34R20/N34R20">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=n34r20&show_icons=true&theme=dark&locale=en" alt="n34r20" /></a>
-  
-</p>
 
