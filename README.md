@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="numpy" width="50" 
+height="40"/> </a>
   <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.png" alt="PySpark" width="60" height="40"/> </a>
   <a href="https://azure.microsoft.com/es-es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="40" height="40"/> </a>
   <a href="https://www.databricks.com/" target="_blank"> <img src="https://yt3.googleusercontent.com/_7KEqCHnfwYCkZmPrEAinVpFFKpvyK9IGcHDsZtaj68aCOi6Ige1Zl3B6MjHZUuurc-WjEv1tVM=s900-c-k-c0x00ffffff-no-rj" alt="Databricks" width="40" height="40"/> </a>
