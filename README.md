@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Archivo:Jupyter_logo.svg" alt="jupyter-notebook" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter-notebook" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
