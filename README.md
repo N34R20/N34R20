@@ -20,7 +20,7 @@ Contact
 <a href="https://www.linkedin.com/in/francisco-olmos-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fran-olmos" height="30" width="40" /></a> 
   
 <p align="left">
-<a href="francisco.olmos.99@gmail.com" target="blank"><img align="center" src=📫 alt="fran-olmos" height="30" width="40" /></a> 
+<a href="francisco.olmos.99@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" alt="fran-olmos" height="30" width="40" /></a> 
 
   <!-- 
 Lenguages & Techonologies
