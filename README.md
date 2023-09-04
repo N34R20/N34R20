@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="left"> Data Scientist / ML enthusiast </h2>
 
-<! -- 
+<!-- 
 Contact
 --->
 
@@ -20,7 +20,7 @@ Contact
 <a href="https://www.linkedin.com/in/francisco-olmos-8b79a41a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fran-olmos" height="30" width="40" /></a> 
 - 📫 How to reach me francisco.olmos.99@gmail.com
 
-<! -- 
+<!-- 
 Lenguages & Techonologies
 --->
 
