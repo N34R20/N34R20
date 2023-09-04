@@ -18,13 +18,15 @@ Contact
 <h2 align="left"> Connect with me: </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-olmos-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fran-olmos" height="30" width="40" /></a> 
-- 📫 How to reach me francisco.olmos.99@gmail.com
+  
+<p align="left">
+<a href="francisco.olmos.99@gmail.com" target="blank"><img align="center" src="📫" alt="fran-olmos" height="30" width="40" /></a> 
 
-<!-- 
+  <!-- 
 Lenguages & Techonologies
 --->
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Techonologies:</h2>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://i1.wp.com/www.inferencelab.com/wp-content/uploads/Python-logo-notext.svg_.png?w=1024" alt="python" width="40" height="40"/> </a>
