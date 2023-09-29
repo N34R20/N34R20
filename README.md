@@ -14,13 +14,12 @@ Title
 <!-- 
 Contact
 --->
+## Conect with me
+ 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N34R20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-olmos-//)  
 
-<h2 align="left"> Connect with me: </h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/francisco-olmos-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fran-olmos" height="30" width="40" /></a> 
-  
-<p align="left">
-<a href="francisco.olmos.99@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="fran-olmos" height="30" width="40" /></a> 
+
+
 
   <!-- 
 Lenguages & Techonologies
@@ -56,5 +55,6 @@ height="40"/> </a>
 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N34R20)](https://github.com/anuraghazra/github-readme-stats)
 
 
