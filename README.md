@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 <!---
 Title
 --->
-
-<h1 align="left"> Data Scientist / ML enthusiast </h2>
+# Francisco Olmos
+**`Data Scientist / ML enthusiast`**
 
 <!-- 
 Contact
@@ -18,14 +18,14 @@ Contact
  
 [<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N34R20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-olmos-//)  
 
-
+---
 
 
   <!-- 
 Lenguages & Techonologies
 --->
 
-<h2 align="left">Languages and Techonologies:</h2>
+## Languages and Techonologies:
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://i1.wp.com/www.inferencelab.com/wp-content/uploads/Python-logo-notext.svg_.png?w=1024" alt="python" width="40" height="40"/> </a>
@@ -57,4 +57,6 @@ height="40"/> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N34R20)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<details>
+ <summary><h3>👨‍💻 My Journey</h3></summary>
+ 
