@@ -11,8 +11,6 @@ Title
 # Francisco Olmos
 **`Data Scientist / ML enthusiast`**
 
-<details>
- <summary><h3 About me </h3></summary>
  
 <!-- 
 Contact
