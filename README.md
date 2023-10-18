@@ -11,6 +11,7 @@ Title
 # Francisco Olmos
 **`Data Scientist / ML enthusiast`**
 
+I'm a Math and Cs Student in University of Buenos Aires (Argentina). My Github profile has personal project as well as lectures and homework from Cs subjects, hopefully you can see interesting things.
  
 <!-- 
 Contact
