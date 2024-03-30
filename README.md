@@ -27,7 +27,7 @@ Contact
 Lenguages & Techonologies
 --->
 
-## Languages and Techonologies:
+## Languages and Technologies:
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://i1.wp.com/www.inferencelab.com/wp-content/uploads/Python-logo-notext.svg_.png?w=1024" alt="python" width="40" height="40"/> </a>
