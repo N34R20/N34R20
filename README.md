@@ -11,12 +11,12 @@ Title
 # Francisco Olmos
 **`Data Scientist / ML enthusiast`**
 
-I'm a Math and Cs Student in University of Buenos Aires (Argentina). My Github profile has personal project as well as lectures and homework from Cs subjects, hopefully you can see interesting things.
+I'm a Math and Cs Student in The University of Buenos Aires - UBA (Argentina). My Github profile has personal project as well as lectures and homework from Cs subjects, hopefully you can see interesting things.
  
 <!-- 
 Contact
 --->
-## Conect with me
+## Connect with me
  
 [<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N34R20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-olmos-//)  
 
