@@ -9,16 +9,18 @@ You can click the Preview link to take a look at your changes.
 Title
 --->
 # Francisco Olmos
-**`Data Scientist / ML enthusiast`**
+**`Data Scientist / ML Enginner`**
 
-I'm a Math and Cs Student in The University of Buenos Aires - UBA (Argentina). My Github profile has personal project as well as lectures and homework from Cs subjects, hopefully you can see interesting things.
+I'm a Math and Cs Student in The University of Buenos Aires - UBA (Argentina). My Github profile has personal projects as well as lectures and homework from Cs subjects, hopefully you can see interesting things.
  
 <!-- 
 Contact
 --->
 ## Connect with me
  
-[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N34R20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-olmos-//)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='40'>]()  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N34R20)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-olmos-//)  
 
 ---
 
