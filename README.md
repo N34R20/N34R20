@@ -18,8 +18,7 @@ Contact
 --->
 ## Connect with me
  
-[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='40'>]()  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N34R20)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='40'>](francisco.olmos.99@gmail.com)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-olmos-//)  
 
 ---
@@ -57,6 +56,7 @@ height="40"/> </a>
   <a href="https://pytorch.org/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="Pytorch" width="40" height="40"/> </a>
   <a href="https://es.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/380/11/png-transparent-latex-hd-logo.png" alt="git" width="40" height="40"/>
 
 </p>
 
